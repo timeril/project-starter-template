@@ -3776,6 +3776,10 @@ table {
   .ico-social .ico-social:hover {
     background: #222; }
 
+.photo-right {
+  float: right;
+  margin: 1rem 0 1rem 1rem; }
+
 header {
   padding-top: 1rem; }
   header h1.site-id {
